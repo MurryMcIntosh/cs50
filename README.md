@@ -1,5 +1,7 @@
 # Mario
 
+[https://lab.cs50.io/MurryMcIntosh/cs50/main/][Link to cs50 Lab]
+
 ## World 1-1
 
 Toward the end of World 1-1 in Nintendo's Super Mario Brothers, Mario must ascend right-aligned pyramid of blocks, a la the below.
